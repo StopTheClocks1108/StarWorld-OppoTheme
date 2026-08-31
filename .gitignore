@@ -1,0 +1,7 @@
+# Build output — upload to GitHub Releases
+release/*.theme
+
+# Generated blobs (rebuilt from *_unpacked/)
+src/wallpaper
+src/com.android.systemui
+src/framework-res

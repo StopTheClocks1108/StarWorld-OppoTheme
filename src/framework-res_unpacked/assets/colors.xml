@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+<bool name="is_immersive_theme">true</bool>
+<bool name="coui_switch_theme_enable">true</bool>
+<dimen name="bar_height">22.0dp</dimen>
+<dimen name="bar_radius">22.0dp</dimen>
+<dimen name="bar_width">39.0dp</dimen>
+<dimen name="config_dialogCornerRadius">22.0dp</dimen>
+<dimen name="subtitle_corner_radius">22.0dp</dimen>
+<dimen name="subtitle_shadow_radius">22.0dp</dimen>
+<dimen name="dialog_corner_radius">22.0dp</dimen>
+<dimen name="chooser_corner_radius">22.0dp</dimen>
+<dimen name="default_magnifier_corner_radius">22.0dp</dimen>
+<dimen name="tooltip_corner_radius">22.0dp</dimen>
+<dimen name="control_corner_material">22.0dp</dimen>
+<dimen name="progress_bar_corner_material">22.0dp</dimen>
+<dimen name="leanback_dialog_corner_radius">22.0dp</dimen>
+<dimen name="system_app_widget_inner_radius">22.0dp</dimen>
+<dimen name="system_app_widget_background_radius">22.0dp</dimen>
+<dimen name="config_bottomDialogCornerRadius">22.0dp</dimen>
+</resources>

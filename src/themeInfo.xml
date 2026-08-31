@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<OplusSmartPhoneThemeInfo>
+<Author>海风吹2.0通用</Author>
+<Summary>海风吹2.0通用</Summary>
+<Description>用完主题必须重启！！！【海风吹2.0通用】
+作者：海风吹
+  </Description>
+  <disableLockPictorial>0</disableLockPictorial>
+  <enableLauncherApplyEffect>1</enableLauncherApplyEffect>
+  <Scale>1.5</Scale>
+  <XOffsetPCT>0.00</XOffsetPCT>
+  <YOffsetPCT>0.00</YOffsetPCT>
+  <LastModifyTime>2021-11-12-18-28-33</LastModifyTime>
+  <IsGlobalTheme>0</IsGlobalTheme>
+  <LanguageType>1</LanguageType>
+  <EditorName>2.0</EditorName>
+  <UUID>F2252007CC2A4B94AC5E3C5595286D48</UUID>
+  <PackageName>F2252007CC2A4B94AC5E3C5595286D48</PackageName>
+  <VersionName>1.2</VersionName>
+  <VersionCode>5301</VersionCode>
+<packageInfo>
+<package name="bin.mt.plus"/>
+<package name="cn.trinea.android.developertools"/>
+<package name="com.oplus.sos_001"/>
+<package name="com.android.contacts" version="003"/>
+<package name="com.android.documentsui" version="001"/>
+<package name="com.coloros.karaoke" version="001"/>
+<package name="com.heytap.tas" version="001"/>
+<package name="com.oplus.encryption" version="001"/>
+<package name="com.oplus.safecenter" version="001"/>
+<package name="com.coloros.systemclone" version="001"/>
+<package name="com.coloros.assistantscreen" version="001"/>
+<package name="com.android.printspooler" version="001"/>
+<package name="com.coloros.bootreg" version="001"/>
+<package name="com.android.bips" version="001"/>
+<package name="com.oplus.owork" version="001"/>
+<package name="com.coloros.codebook" version="001"/>
+<package name="com.coloros.backuprestore" version="001"/>
+<package name="com.coloros.smartlock" version="001"/>
+<package name="com.android.incallui" version="003"/>
+<package name="com.android.launcher"/>
+<package name="com.android.mms" version="006"/>
+<package name="com.android.packageinstaller" version="001"/>
+<package name="com.android.htmlviewer" version="001"/>
+<package name="com.android.permissioncontroller"/>
+<package name="com.android.phone"/>
+<package name="com.android.providers.media.module"/>
+<package name="com.android.server.telecom"/>
+<package name="com.android.settings"/>
+<package name="com.android.stk"/>
+<package name="com.android.systemui"/>
+<package name="com.coloros.accessibilityassistant"/>
+<package name="com.coloros.activation"/>
+<package name="com.coloros.alarmclock" version="002"/>
+<package name="com.coloros.calculator"/>
+<package name="com.coloros.calendar" version="002"/>
+<package name="com.coloros.childrenspace"/>
+<package name="com.coloros.colordirectservice"/>
+<package name="com.coloros.digitalwellbeing"/>
+<package name="com.coloros.directui"/>
+<package name="com.coloros.filemanager_001"/>
+<package name="com.redteamobile.roaming" version="001"/>
+<package name="com.oplus.wifibackuprestore" version="001"/>
+<package name="com.oplus.aod" version="001"/>
+<package name="com.coloros.findmyphone"/>
+<package name="com.coloros.floatassistant" version="003"/>
+<package name="com.coloros.gallery3d"/>
+<package name="com.coloros.gesture"/>
+<package name="com.coloros.note_002"/>
+<package name="com.coloros.notificationmanager"/>
+<package name="com.coloros.operationManual"/>
+<package name="com.coloros.oppoguardelf"/>
+<package name="com.coloros.oppomultiapp"/>
+<package name="com.coloros.oshare"/>
+<package name="com.coloros.phonemanager"/>
+<package name="com.coloros.safecenter"/>
+<package name="com.coloros.sceneservice"/>
+<package name="com.coloros.screenrecorder"/>
+<package name="com.coloros.screenshot"/>
+<package name="com.coloros.securepay"/>
+<package name="com.coloros.securitypermission"/>
+<package name="com.coloros.sharescreen"/>
+<package name="com.coloros.shortcuts"/>
+<package name="com.coloros.simsettings"/>
+<package name="com.coloros.smartdrive"/>
+<package name="com.coloros.smartsidebar_001"/>
+<package name="com.coloros.soundrecorder"/>
+<package name="com.coloros.systemclone"/>
+<package name="com.coloros.uxdesign"/>
+<package name="com.coloros.weather2"/>
+<package name="com.coloros.wirelesssettings"/>
+<package name="com.finshell.wallet_001"/>
+<package name="com.heytap.accessory"/>
+<package name="com.heytap.cloud"/>
+<package name="com.heytap.health"/>
+<package name="com.heytap.htms"/>
+<package name="com.heytap.market"/>
+<package name="com.heytap.music"/>
+<package name="com.heytap.mydevices"/>
+<package name="com.heytap.pictorial"/>
+<package name="com.heytap.speechassist"/>
+<package name="com.heytap.themestore"/>
+<package name="com.heytap.yoli" version="001"/>
+<package name="com.iudesk.android.photo.editor" version="001"/>
+<package name="com.magicbelt.ninepatch"/>
+<package name="com.oplus.acc.gac"/>
+<package name="com.oplus.account"/>
+<package name="com.oplus.aiunit"/>
+<package name="com.oplus.appbooster"/>
+<package name="com.oplus.appdetail"/>
+<package name="com.oplus.apprecover"/>
+<package name="com.oplus.battery"/>
+<package name="com.oplus.beaconlink" version="002"/>
+<package name="com.oplus.blacklistapp"/>
+<package name="com.oplus.camera"/>
+<package name="com.oplus.cast" version="001"/>
+<package name="com.oplus.cota"/>
+<package name="com.oplus.consumerIRApp"/>
+<package name="com.oplus.eyeprotect"/>
+<package name="com.oplus.exserviceui"/>
+<package name="com.oplus.games"/>
+<package name="com.oplus.gesture"/>
+<package name="com.oplus.hamlet"/>
+<package name="com.oplus.linker"/>
+<package name="com.oplus.logkit"/>
+<package name="com.oplus.member"/>
+<package name="com.oplus.metis"/>
+<package name="com.oplus.multiapp"/>
+<package name="com.oplus.nas"/>
+<package name="com.oplus.notificationmanager"/>
+<package name="com.oplus.ocar"/>
+<package name="com.oplus.ota"/>
+<package name="com.oplus.pantanal.ums"/>
+<package name="com.oplus.pay"/>
+<package name="com.oplus.screenrecorder"/>
+<package name="com.oplus.screenshot"/>
+<package name="com.oplus.securitypermission"/>
+<package name="com.oplus.trafficmonitor"/>
+<package name="com.oplus.travelengine"/>
+<package name="com.oplus.uiengine"/>
+<package name="com.oplus.uxdesign"/>
+<package name="com.oplus.wallpapers"/>
+<package name="com.oplus.wirelesssettings"/>
+<package name="com.oppo.community"/>
+<package name="com.oppo.music"/>
+<package name="com.oppo.sos"/>
+<package name="com.oppo.store"/>
+<package name="com.sohu.inputmethod.sogouoem"/>
+<package name="com.tencent.mm"/>
+<package name="icons"/>
+<package name="lockscreen"/>
+<package name="picture"/>
+<package name="wallpaper"/>
+<package name="theme-widget"/>
+</packageInfo>
+<resolutionInfo>
+<resolution>2340*1080</resolution>
+<resolution>2400*1080</resolution>
+<resolution>3168*1440</resolution>
+<resolution>3216*1440</resolution>
+</resolutionInfo>
+</OplusSmartPhoneThemeInfo>

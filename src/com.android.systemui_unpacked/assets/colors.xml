@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- 未定义到的图标开启关闭颜色 -->
+<color name="status_bar_qs_custom_tile_icon_color_active">#ffff0000</color>
+<color name="status_bar_qs_custom_tile_icon_color_inactive">#ffffffff</color>
+<!-- 色魔修改 -->
+<!-- <dimen name="status_bar_left_clock_starting_padding">15.8dp</dimen>状态栏时间左侧间距 -->
+<!-- <dimen name="op_status_bar_battery_icon_margin_right">0.38dp</dimen>状态栏右侧间距 -->
+<!-- colors15专用开启代码 -->
+<bool name="coui_switch_theme_enable">true</bool>
+<bool name="config_vibrateOnIconAnimation">false</bool>
+<bool name="coui_blur_enable">true</bool>
+<bool name="is_immersive_theme">true</bool>
+<bool name="keyguard_clock_global_theme_enable">true</bool>
+<bool name="status_bar_qs_icon_bg_drawable_global_theme">true</bool>
+<bool name="status_bar_qs_icon_tint_color">false</bool>
+<bool name="keyguard_icon_should_tint">true</bool>
+<bool name="config_volumeDialogUseBackgroundBlur">true</bool>
+<color name="system_bar_background_transparent">#00000000</color>
+<!-- 通知面板控制中心高斯模糊，重启生效 -->
+<integer name="blur_radius_platform">40</integer>
+<!-- coloros16.1最新背景模糊代码 -->
+<integer name="blur_radius_platform_config">40</integer>
+
+<integer name="config_dreamOverlayInBlurDurationMs">88.0dp</integer>
+<dimen name="dream_overlay_anim_blur_radius">88.0dp</dimen>
+<dimen name="max_window_blur_radius">188.0px</dimen>
+<dimen name="volume_dialog_background_blur_radius">88.0dp</dimen>
+<dimen name="coui_popup_list_window_background_blur_radius">158.0dp</dimen>
+<!-- colors16高亮色 -->
+<dimen name="volume_system_adjust_margin_top">196dp</dimen>音量展开图标位置
+<dimen name="volume_app_adjust_margin_top">40dp</dimen>应用音量图标位置
+<color name="status_bar_qs_tile_icon_color_unavailable">#FFFFFFFF</color>图标不可用颜色
+<color name="coui_color_background_with_card">#fff3f2f8</color>
+<color name="coui_color_secondary_neutral">#fffdfdfd</color>
+<color name="coui_color_secondary_neutral_dark">#fffdfdfd</color>
+<color name="coui_color_label_theme_blue">#ffffffff</color>
+<color name="coui_color_label_theme_blue_dark">#ffffffff</color>
+<color name="coui_color_primary_blue">#ffffffff</color>
+<color name="coui_color_primary_blue_dark">#FF00FF3C</color>
+<color name="coui_color_primary_blue_light">#FF00FF3C</color>
+<color name="coui_color_secondary_blue_light">#FF00FF3C</color>
+<!-- 通知面板和QSPanel混合混色渐变图形优化，重启生效 -->
+<color name="notification_and_qs_panel_mixed_color_bottom_layer">#33f8f8f8</color>
+<color name="notification_and_qs_panel_mixed_color_top_layer">#66582868</color>
+<!-- 自定义图片通知背景高斯模糊和上下位置偏移 -->
+<color name="notification_scrim_bg_mask_color">#69303030</color>
+<color name="notification_scrim_bg_mask_color_in_low_gauss_level">#00000000</color>
+<color name="notification_shade_panel_bg_mask_color">#00000000</color>
+<!-- 通知圆角 -->
+<dimen name="notification_scrim_corner_radius">20.0dp</dimen>
+<dimen name="notification_corner_radius">20.0dp</dimen>
+<dimen name="notification_center_text_padding_start">12.8dp</dimen>
+<!-- 通知清理按钮高斯模糊颜色 -->
+<color name="overlay_blur_color">#00FFFFFF</color>
+<color name="clear_all_bg_color">#00FFFFFF</color>
+<!-- 通知侧滑菜单标芯颜色 -->
+<color name="notification_guts_icons_default_color">#ffffffff</color>
+<!-- 通知侧滑菜单图标背景颜色 -->
+<color name="notification_gear_color">#ffffffff</color>
+<color name="notification_menu_icon_background">#66ffffff</color>
+<!-- 锁屏通知菜单图标背景颜色 -->
+<color name="notification_menu_icon_keyguard_background">#33ffffff</color>
+<color name="clear_all_bg_color">#33ffffff</color>
+<!-- 桌面音量调节背景 -->
+<color name="oplus_volume_bar_background">#b33333333</color>
+<color name="oplus_volume_app_adjust_dialog_background_light">#00000000</color>
+<color name="oplus_volume_bar_progress_background">#ffffffff</color>
+<color name="oplus_volume_plane_bg_mixed_color_bottom_layer">#b3333333</color>
+<color name="oplus_volume_plane_bg_mixed_color_top_layer">#b3333333</color>
+<color name="oplus_volume_panel_background">#b3333333</color>
+<color name="volume_dragonfly_bg_color_no_blur">#00000000</color>
+<dimen name="volume_dialog_slider_corner_radius">36.0dp</dimen>
+<!-- 下拉亮度音量条滑动背景颜色 -->
+<color name="status_bar_qs_brightness_slider_progress_color">#E0FFFFFF</color>
+<!-- 下拉媒体切换双重混色背景 -->
+<color name="qs_detail_dialog_bg_color_night">#33989898</color>
+<color name="qs_detail_dialog_fg_color_night">#33ffffff</color>
+<color name="qs_detail_dialog_bg_color">#33989898</color>
+<color name="qs_detail_dialog_fg_color">#33ffffff</color>
+<color name="coui_color_surface_with_card">#18d8d8d8</color>
+<color name="coui_color_surface_top">#ff4f4f4f</color>
+<!-- 下拉设备空间双重混色背景和字体 -->
+<color name="panel_mixed_lum_color">#33989898</color>
+<color name="panel_mixed_dodge_color">#99ffffff</color>
+<color name="separate_default_background_color">#00000000</color>
+<color name="separate_title_text_not_in_use">#ffffffff</color>
+<color name="separate_general_lum_color">#33989898</color>
+<color name="separate_general_dodge_color">#99ffffff</color>
+<color name="separate_usable_lum_color">#33989898</color>
+<color name="separate_usable_dodge_color">#99ffffff</color>
+<color name="classic_panel_lum_color">#33989898</color>
+<color name="classic_panel_dodge_color">#99ffffff</color>
+<color name="separate_summary_text_in_use">#ffffffff</color>
+<color name="separate_summary_text_not_in_use">#ffffffff</color>
+<color name="separate_title_text_in_use">#ffffffff</color>
+<color name="separate_title_text_normal">#ffffffff</color>
+<color name="separate_title_text_not_in_use">#ffffffff</color>
+<!-- 开关快捷背景与字体颜色 -->
+<color name="status_bar_qs_wifi_icon_dark">#ffffffff</color>
+<color name="status_bar_qs_wifi_icon_light">#ffffffff</color>
+<color name="status_bar_qs_detail_empty_title">#ffffffff</color>
+<color name="status_bar_qs_detail_item_summary_color">#ffffffff</color>
+<color name="status_bar_qs_detail_title_color">#ffffffff</color>
+<color name="status_bar_qs_detail_items_title_color">#ffffffff</color>
+<color name="status_bar_qs_detail_item_icon">#ffffffff</color>
+<color name="status_bar_qs_detail_item_icon_night">#ffffffff</color>
+<color name="status_bar_qs_customize_bottom_part_bg_color">#33ffffff</color>
+<color name="oplus_qs_quick_entrance_text_color">#ffffffff</color>
+<color name="oplus_qs_quick_entrance_text_color_night">#ffffffff</color>
+<!-- 下拉编辑模式下下层背景颜色 -->
+<color name="oplus_qs_customizer_bottom_bg_color">#19ffffff</color>
+<!-- 下拉时间日期颜色 -->
+<color name="status_bar_qs_footer_clock">#ffffffff</color>
+<color name="status_bar_qs_footer_date">#ffffffff</color>
+<!-- 下拉wifi蓝牙开启和关闭字体颜色 -->
+<color name="status_bar_qs_highlight_tile_label_color">#ffffffff</color>
+<color name="status_bar_qs_highlight_tile_label_color_active">#ff000000</color>
+<!-- 下拉图标开启关闭wifi蓝牙小底层背景颜色 -->
+ <color name="coui_color_card_background">#00ffffff</color>
+ <color name="coui_color_background">#00FFFFFF</color>
+ <color name="coui_color_background_elevatedWithCard">#00FFFFFF</color> 
+ <color name="coui_color_background_with_card">#00FFFFFF</color>
+<color name="status_bar_qs_smalltile_bg_color_active">#00FFFFFF</color>
+<color name="status_bar_qs_smalltile_bg_color_inactive">#00ffffff</color>
+<color name="status_bar_qs_tile_bg_color_active">#fff3f2f8</color>
+<color name="status_bar_qs_tile_bg_color_inactive">#0000000</color>
+<color name="status_bar_qs_tile_bg_color_media">#19ffffff</color>
+<color name="status_bar_qs_tile_bg_color_unavailable">#33ffffff</color>
+<color name="status_bar_qs_dnd_detail_empty_title">#0000000</color>
+<color name="status_bar_qs_dnd_detail_empty_title_night">#ffff0000</color>
+<color name="status_bar_qs_detail_items_title_color_night">#ffff0000</color>
+<!-- 下拉图标开启关闭wifi蓝牙字体颜色 -->
+<color name="qs_sep_view_active_color">#ff000000</color>
+<color name="qs_sep_view_desc_inactive_color">#ff000000</color>
+<color name="qs_sep_view_inactive_color">#ff000000</color>
+<color name="status_bar_qs_detail_empty_title_night">#ff000000</color>
+<!-- 下拉数据小sim卡图标颜色 -->
+<color name="qs_icon_sim_color_night">#ffffffff</color>
+<!-- 下拉媒体播放器按键字体颜色 -->
+<color name="qs_sep_media_view_disable_color">#ffffffff</color>
+<color name="qs_sep_media_view_inactive_color">#ffffffff</color>
+<color name="qs_sep_media_view_disable_color">#ffffffff</color>
+<color name="qs_sep_media_view_inactive_color">#ffffffff</color>
+<!-- 下拉打开大媒体播放器，字体，进度条，播放开始按钮颜色 -->
+<color name="coui_color_primary_neutral_dark">#ffffffff</color>
+<!-- 下拉打开大媒体播放器进度条底层背景 -->
+<color name="coui_color_divider_dark">33ffffff</color>
+<!-- 下拉大媒体播放器收藏，下一首，上一首，歌词颜色 -->
+<color name="coui_color_disabled_neutral">#ffffffff</color>
+<color name="coui_color_disabled_neutral_dark">#ffffffff</color>
+<!-- 下拉大媒体播放器音量喇叭图标颜色，自动透明 -->
+<color name="coui_color_primary_neutral">#fffdfdfd</color>
+<color name="coui_color_primary_neutral_night">#ffffffff</color>
+<!-- 下拉大媒体播放器进度时间字体字颜色 -->
+<color name="coui_color_hint_neutral">#ffffffff</color>
+<color name="coui_color_hint_neutral_dark">#ffffffff</color>
+<!-- 下拉所有未开启除了音量亮度大小按钮背景 -->
+<color name="qs_sep_panel_view_bg_color">#c8ffffff</color>
+<color name="qs_sep_panel_view_fg_color">#33989898</color>
+<color name="qs_panel_view_bg_color">#c8ffffff</color>
+<color name="qs_panel_view_fg_color">#33989898</color>
+<!-- 下拉经典模式音量亮度滑动和底层背景颜色 -->
+<color name="qs_seekbar_background_bg_color">#33ffffff</color>
+<color name="qs_seekbar_background_fg_color">#99989898</color>
+<color name="qs_seekbar_progress_color">#99ffffff</color>
+<color name="qs_seekbar_progress_bg_color">#33989898</color>
+<color name="qs_seekbar_progress_fg_color">#c8ffffff</color>
+<!-- 下拉音量亮度滑动和底层背景颜色 -->
+<color name="qs_sep_seekbar_background_bg_color">#DEFFFFFF</color>
+<color name="qs_sep_seekbar_background_fg_color">#ffffffff</color>
+<color name="qs_sep_seekbar_progress_bg_color">#DEFFFFFF</color>
+<color name="qs_sep_seekbar_progress_fg_color">#ffffffff</color>
+<!-- 下拉图标开启标芯颜色 -->
+<color name="status_bar_qs_tile_icon_color_active">#FF2798FF</color>
+<!-- 下拉图标关闭标芯颜色 -->
+<color name="status_bar_qs_tile_icon_color_inactive">#ffffffff</color>
+<!-- 下拉快捷开关字体颜色 -->
+<color name="status_bar_qs_tile_label_color">#ffffffff</color>
+<!-- 下拉图标开启杜比字体颜色 -->
+<color name="status_bar_qs_tile_label_color_unavailable">#ffffffff</color>
+<!-- 下拉二级弹窗字体颜色 -->
+<color name="status_bar_qs_detail_title_text_color">#FFFFFFFF</color>
+<color name="status_bar_qs_detail_title_text_color_night">#FFFFFFFF</color>
+<color name="coui_color_label_secondary">#fffdfdfd</color>
+<color name="coui_color_label_secondary_dark">#99fffffff</color>
+<color name="coui_color_label_primary">#fffdfdfd</color>
+<color name="coui_color_label_primary_dark">#ffffffff</color>
+<color name="coui_color_label_quaternary">#ffffffff</color>
+<!-- 桌面清理toast背景 -->
+<color name="oplus_toast_bg_color">#fff3f2f8</color>
+<dimen name="oplus_toast_double_line_radius">38.0dp</dimen>
+<dimen name="oplus_toast_mutl_line_radius">38.0dp</dimen>
+<!-- 下拉popup背景和字体 -->
+<color name="coui_popup_list_background_color_no_blur">#19000000</color>
+<color name="coui_popup_list_blend_blur">#33282828</color>
+<color name="coui_popup_list_mix_blur">#00000000</color>
+<!-- 下拉底部切换导航背景颜色 -->
+<color name="oplus_qs_icon_tray_normal_bg_color">#00000000</color>
+<!-- 下拉底部切换圆点颜色 -->
+<color name="white">#00000000</color>
+<color name="quicksettings_indicator_dot_color">#00000000</color>
+<color name="quicksettings_indicator_bg_color">#00000000</color>
+<color name="status_bar_qs_page_indicator_color">#33282828</color>
+<!-- 状态栏通知 -->
+<color name="notification_material_background_color_compass">#1AFFFFFF</color>
+<color name="lockscreen_notification_bg">#99ffffff</color>
+<color name="notification_material_background_color">#00000000</color>
+<color name="notification_material_blur_bg">#99f8f8f8</color>
+<color name="oplus_volume_dialog_background">#33ffffff</color>
+<color name="status_bar_qs_container_bg">#33ffffff</color>
+<!-- 下拉通知二级弹窗高斯模糊背景颜色 -->
+<color name="notification_popup_menu_panel_background_color">#00000000</color>
+<!-- 全景手电筒 -->
+<color name="qs_flashlight_secondary_brightness_base">#FFFFFFFF</color>
+<color name="qs_flashlight_secondary_brightness_base_night">#FFFFFFFF</color>
+<color name="qs_flashlight_secondary_brightness_border_off_night">#00000000</color>
+<color name="qs_flashlight_secondary_brightness_border_on_night">#00000000</color>
+<color name="qs_flashlight_secondary_brightness_off">#33ffffff</color>
+<color name="qs_flashlight_secondary_brightness_off_night">#33ffffff</color>
+<color name="qs_flashlight_secondary_brightness_on">#FFFFFFFF</color>
+<color name="qs_flashlight_secondary_brightness_on_night">#FFFFFFFF</color>
+<!-- 下拉移动数据开启流量字体颜色 -->
+<color name="status_bar_qs_tile_second_label_color">#ffffffff</color>
+<!-- 状态栏时钟大小位置 -->
+<dimen name="status_bar_clock_size">15.0sp</dimen>
+<dimen name="stat_clock_size">15.0dp</dimen>
+<dimen name="status_bar_left_clock_starting_padding">15.8dp</dimen>
+<dimen name="status_bar_battery_horizontal_padding_left">0.0dp</dimen>
+<dimen name="status_bar_battery_horizontal_padding_right">0.0dp</dimen>
+<dimen name="op_status_bar_battery_icon_margin_right">0.38dp</dimen>
+<dimen name="signal_cluster_battery_padding_start">18.0dp</dimen>
+<dimen name="status_bar_network_speed_view_width">26.0dp</dimen>
+<!-- 自定义电池外和不显示电池图标大小高度位置，注意，一定保持两张图片宽度一样 -->
+<dimen name="battery_size">13.8dp</dimen>
+<integer name="stat_battery_theme_mode">0</integer>
+<dimen name="battery_margin_bottom">0.0dp</dimen>
+<dimen name="battery_percent_text_size">9dp</dimen>
+<dimen name="battery_percent_in_text_margin_top">-0.08dp</dimen>
+<dimen name="battery_percent_in_text_offset_x">1.2dp</dimen>
+<dimen name="battery_percent_in_text_size">11.0dp</dimen>
+<dimen name="battery_progress_corner_radius">3.2dp</dimen>
+<dimen name="op_status_bar_battery_text_margin_bottom">0.5dp</dimen>
+<dimen name="op_status_bar_battery_icon_margin_left">1.6dp</dimen>
+<dimen name="status_bar_battery_horizontal_progress_bottom">3.8dp</dimen>
+<dimen name="status_bar_battery_horizontal_progress_end">4.6dp</dimen>
+<dimen name="status_bar_battery_horizontal_progress_start">3.2dp</dimen>
+<dimen name="status_bar_battery_horizontal_progress_top">3.8dp</dimen>
+<dimen name="status_bar_battery_horizontal_height">16.8dp</dimen>
+<dimen name="status_bar_battery_horizontal_width">27.8dp</dimen>
+<dimen name="status_bar_battery_vertical_height">13.0dp</dimen>
+<dimen name="status_bar_battery_vertical_width">13.0dp</dimen>
+<dimen name="status_bar_battery_charge_padding_end">0.0dp</dimen>
+<dimen name="status_bar_signal_roaming_width">42.8dip</dimen>
+<dimen name="status_bar_signal_strength_soft_width">42.8dip</dimen>
+<dimen name="status_bar_signal_strength_width">42.8dip</dimen>
+<!-- 通知宽度 -->
+<!-- <dimen name="notification_side_paddings">6.8dp</dimen> -->
+<!-- <dimen name="notification_panel_margin_horizontal">8.0dp</dimen> -->
+<!-- 自定义电池充电颜色 -->
+<color name="battery_power_save_color">#ffff9820</color>
+<color name="battery_progress_bar_color_low_mode">#ffff0001</color>
+<color name="battery_progress_bar_color_normal_mode">#ffffffff</color>
+<color name="battery_progress_bar_color_pps">#ffaa00ff</color>
+<color name="battery_progress_bar_color_save_mode">#ffffc020</color>
+<color name="battery_progress_bar_color_speed_pps">#ffffff00</color>
+<color name="battery_progress_bar_color_svooc1">#ff00ff00</color>
+<color name="battery_progress_bar_color_svooc2">#ffd000ff</color>
+<color name="battery_progress_bar_color_vooc">#ff02bd12</color>
+<!-- 圆磁贴开启关闭上层图标大小 -->
+<dimen name="qs_tile_icon_size">30dip</dimen>
+<!-- 圆磁贴开启关闭底层图片大小 -->
+<dimen name="qs_quick_tile_size">56dip</dimen>
+<dimen name="qs_quick_qs_tile_size">52.0dp</dimen>
+<dimen name="notification_center_tile_size">28.0sp</dimen>
+<!-- 桌面开关高度宽度 -->
+<dimen name="bar_height">25.0dp</dimen>
+<dimen name="bar_radius">16.0dp</dimen>
+<dimen name="bar_width">60.0dp</dimen>
+<!-- 桌面音量调节宽和高 -->
+<color name="quicksettings_indicator_dot_trace_color">#00FFFFFF</color>指示1
+<color name="quicksettings_indicator_dot_color">#00FFFFFF</color>指示
+<dimen name="volume_vertical_seek_bar_width">150dp</dimen>音量条长度
+<dimen name="volume_vertical_seek_bar_height">43dp</dimen>音量条宽度
+<dimen name="volume_vertical_seek_bar_margin_top">900dp</dimen>音量上下位置
+<dimen name="volume_system_adjust_margin_top">200dp</dimen>音量条下空隙
+<color name="coui_color_divider">#C0E0E0E0</color>
+<color name="coui_color_divider_light">#00000000</color>
+<color name="coui_navigation_divider_color">#00000000</color>
+<color name="coui_popup_list_group_divider_color">#00000000</color>
+<color name="coui_preference_category_divider_color">#00000000</color>
+<color name="notification_divider_color">#00000000</color>
+<color name="notification_divider_color_bg">#00000000</color>
+<!-- 关机重启界面背景 -->
+<color name="status_bar_qs_footer_text_color">#FFFFFFFF</color>
+<color name="oplus_actions_dialog_background_color">#ff000800</color>
+<color name="oplus_manually_lock_button_pressed">#ffff0001</color>
+<color name="oplus_handler_color">#ffff0000</color>
+<color name="oplus_accent_color">#ffffffff</color>
+<!-- 界面卡片圆角 -->
+<dimen name="coui_corner_radius">20.0dp</dimen>
+<dimen name="coui_preference_card_radius">20.0dp</dimen>
+<dimen name="coui_round_corner_m">20.0dp</dimen>
+<dimen name="coui_round_corner_m_radius">16.0dp</dimen>
+<dimen name="coui_round_corner_xl_radius">20.0dp</dimen>
+<dimen name="oplus_qs_media_panel_bg_corner_radius">22.0dp</dimen>
+<dimen name="oplus_qs_media_panel_cover_size">48.0dp</dimen>
+<dimen name="oplus_qs_media_panel_cover_img_size">48.0dp</dimen>
+<dimen name="oplus_qs_media_panel_cover_out_size">26.0dp</dimen>
+<!-- 下拉横向双大卡片圆角 -->
+<dimen name="qs_tile_corner_radius_default">30.0dp</dimen>
+<!-- 相关圆角 -->
+<dimen name="qs_detail_bg_corner_radius">30.0dp</dimen>
+<dimen name="qs_hl_tile_corner_radius_circle">30.0dp</dimen>
+<!-- 经典模式下设备空间圆角 -->
+<dimen name="classic_qs_hl_tile_corner_radius_semicircle">26.0dp</dimen>
+<dimen name="separate_card_corner_radius_semicircle">18.0dp</dimen>
+<!-- 沉侵导航栏颜色 -->
+<color name="navigation_bar_home_handle_dark_color">#EC000000</color>
+<color name="navigation_bar_home_handle_light_color">#E2FFFFFF</color>
+<!-- 下拉控制中心整体下沉 -->
+<dimen name="qs_pageindicator_height">-188.0dp</dimen>
+<dimen name="qs_page_indicator_height">-188.0dp</dimen>
+<dimen name="qs_header_statusbar_height">68.0dp</dimen>
+<!-- 深色液态玻璃新增代码 -->
+<color name="oplus_qs_media_button_selector">#ffffffff</color>
+<color name="coui_color_press_background">#33ffffff</color>
+<color name="notification_popup_menu_icon_color">#ffffffff</color>
+<color name="notification_expand_button_pill_color_new">#33ffffff</color>
+<color name="selected_device_tint">#ffffffff</color>
+<color name="blur_disable_separate_title_text_normal">#ffffffff</color>
+<color name="separate_summary_text_in_use">#ffffffff</color>
+<color name="separate_summary_text_not_in_use">#ffffffff</color>
+<color name="separate_title_text_in_use">#ffffffff</color>
+<color name="separate_title_text_normal">#ffffffff</color>
+<color name="separate_title_text_not_in_use">#ffffffff</color>
+<color name="coui_button_sub_disable">#33ffffff</color>
+<color name="coui_color_label_tertiary">#ffdddddd</color>
+<color name="coui_color_label_tertiary_dark">#ffffffff</color>
+<color name="device_panel_bg_color">#18ffffff</color>
+<color name="status_bar_qs_weather_text">#ffffffff</color>
+<color name="no_notification_text_color">#ffffffff</color>
+<color name="blur_disable_separate_summary_text_in_use">#ffffffff</color>
+<color name="blur_disable_separate_summary_text_not_in_use">#ffffffff</color>
+<color name="blur_disable_separate_title_text_in_use">#ffffffff</color>
+<color name="blur_disable_separate_title_text_normal">#ffffffff</color>
+<color name="blur_disable_separate_title_text_not_in_use">#ffffffff</color>
+<color name="transparent">#00000000</color>
+<!-- 流体云 通知透明度调节 -->
+<color name="custom_background_color">#00000000</color>
+<color name="custom_card_mixed_color_bottom_layer">#33585858</color>
+<color name="custom_card_mixed_color_top_layer">#66262626</color>
+<color name="coui_color_container8">#33ffffff</color>
+<color name="notification_title_text_color">#d8ffffff</color>
+<color name="notification_primary_text_color">#ffffffff</color>
+<color name="quicksettings_customizer_button_bg_color">#33ffffff</color>
+<!-- 设置选项、分割线左位置 -->
+<dimen name="support_preference_title_padding_start">31.6dip</dimen>
+<!-- 设置分割线粗细程度 -->
+<dimen name="coui_list_divider_height">1.1dip</dimen>
+<!-- 设置非底部弹窗分割线粗细程度 -->
+<dimen name="coui_popup_list_divider_height">1.1dip</dimen>
+<!-- 设置底部弹窗分割线粗细程度 -->
+<dimen name="toolbar_divider_height">1.1dip</dimen>
+<!-- 设置卡片高度 -->
+<dimen name="coui_preference_category_margintop_large">30dip</dimen>
+<!-- 设置背景框宽度 -->
+<dimen name="coui_preference_card_margin_horizontal">15dip</dimen>
+<!-- 设置首页紧凑程度 -->
+<dimen name="homepage_preference_min_height">57dip</dimen>
+<!-- 设置二级界面紧凑程度 -->
+<dimen name="support_preference_min_height">57dip</dimen>
+<!-- 小横条代码（重启生效） -->
+<!--小横条长度-->
+<dimen name="navigation_home_handle_width">138dp</dimen>
+<!--小横条粗细-->
+<dimen name="navigation_handle_height">4.8dp</dimen>
+<!--小横条动画-->
+ <dimen name="navigation_handle_translation_limit">8dip</dimen>
+<!-- 锁屏通知下沉 -->
+<dimen name="keyguard_status_view_bottom_margin">300dp</dimen>
+<!-- coloros16.1最新锁屏通知下沉代码 -->
+<dimen name="keyguard_status_view_bottom_margin_unify_for_tablet">300dp</dimen>
+<!-- 更改通知日期颜色 -->
+<color name="date_color_primary_neutral">#ffffffff</color>
+<bool name="notification_bg_drawable_global_theme_disable">false</bool>
+
+</resources>
+
